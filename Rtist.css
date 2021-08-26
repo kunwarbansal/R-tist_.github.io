@@ -1,0 +1,48 @@
+html{
+    background-color: rgb(31, 29, 29);
+}
+h1{
+    color: rgb(226, 232, 235);
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    text-align: left;
+    font-size: 50px;
+    color: cornsilk;
+}
+/* p1{
+    display: block; 
+	width: auto; 
+	margin: 0 auto; 
+} */
+/* p2{
+    color: crimson;
+    font-size: 40px;
+}
+p3{
+    text-align: left;
+    font-size: 950px;
+    color: cornsilk;
+    z-index: 2;
+} */
+a{
+    font-size: 80px;
+    color: rgb(168, 172, 125);
+}
+
+h3{
+    text-align: center;
+    font-size: 80px;
+    color: cornsilk;
+}
+div{
+    text-align: left;
+    font-size: 50px;
+    color: cornsilk;
+}
+p2{
+    text-align: left;
+    font-size: 80px;
+    color: cornsilk;
+}
